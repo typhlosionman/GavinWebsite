@@ -1,0 +1,186 @@
+h1 {
+    font-family: Stea;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+.stea-name {
+    font-size: 150px;
+}
+
+.nametitle {
+    font-family: SoJ;
+    font-size: 110px;
+    text-align: center;
+}
+
+.desctitle {
+    font-family: Serim;
+    font-size: 30px;
+    text-align: center;
+    color: #B7A2FF;
+    margin-top: -50px;
+    letter-spacing: 5px;
+}
+
+.link-ani {
+    color: #3f4142;
+    text-decoration: underline;
+}
+
+.about {
+    text-align: left;
+    line-height: 1.8;
+}
+
+.about-titlel {
+    font-size: 40px;
+    text-align: left;
+    padding-left: 30px;
+}
+
+.paddingl {
+    padding-left:30px;
+    padding-right:30px;
+    text-align:left;
+}
+
+.about-titler {
+    font-size: 40px;
+    text-align: right;
+    padding-right: 30px;
+}
+
+.paddingr {
+    padding-left:30px;
+    padding-right:30px;
+    text-align:right;
+}
+
+h2 {
+    font-family: Serim;
+    border-bottom: 2px solid #B7A2FF;
+    padding-bottom: 20px;
+    letter-spacing: 5px;
+}
+
+h3 {
+    font-family: WaffleSoft;
+    font-size: 40px;
+}
+
+h4 {
+    font-family: sans-serif;
+    line-height: 1.4;
+}
+
+h5 {
+    font-family: WaffleSoft;
+}
+
+@font-face {
+    font-family: SoJ;
+    src: url('soupofjustice.ttf');
+}
+
+@font-face {
+    font-family: Serim;
+    src: url('SERIM___.ttf');
+}
+
+@font-face {
+    font-family: LANENAR_;
+    src: url('LANENAR_.ttf')
+}
+
+@font-face {
+    font-family: Anisha;
+    src: url('Anisha Free.otf');
+}
+
+.navbar-brand {
+    font-family: SoJ;
+    font-size: 30px;
+}
+
+.jumbotron {
+    background-color: #050B40;
+    color: white;
+    padding: 200px;
+}
+
+.container-fluid {
+    background-color: white;
+    color: #3f4142;
+    margin-top: -30px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.row {
+    padding-top: 20px;
+}
+
+.glyphicon {
+    color: #B7A2FF;
+}
+
+.glyphicon-plus-sign {
+    font-size: 150px;
+    color: #B7A2FF;
+}
+
+.contact-icon {
+    margin-right: 15px;
+    color: #B7A2FF;
+}
+
+.about-icon {
+    
+}
+
+.navbar {
+    margin-bottom: 0;
+    background-color: #4591CF;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+    color: white
+}
+
+.navbar li a, .navbar .navbar-brand {
+    color: #FFFFFF !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #755BFF !important;
+    background-color: #FFFFFF !important;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #FFFFFF !important;
+}
+
+.navbar-right {
+    font-family: Serim;
+    font-size: 20px;
+}
+
+details summary::-webkit-details-marker {
+  color: #B7A2FF;
+  font-size: 100%;
+}
+
+summary {
+  display: block;
+    font-family: WaffleSoft;
+    font-size: 30px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
